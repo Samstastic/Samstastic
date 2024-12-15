@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Samstastic
 - 👀 I’m interested in ...Data Analytics
-- 🌱 I’m currently learning ...Google Data Analytics, Sales force Administration.
+- 🌱 I’m currently learning ...Google Data Analytics, Salesforce Administration.
 - 💞️ I’m looking to collaborate on ... new projects especially basic data Analytics.
 - 📫 How to reach me ... samuelmstone55@gmail.com,  https://www.linkedin.com/in/samuelmstone  
 - 😄 Pronouns: ... He, Him.
